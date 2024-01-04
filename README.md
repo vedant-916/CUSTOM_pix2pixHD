@@ -34,7 +34,7 @@ Use train.py to train on your own dataset
 SOURCE IMAGE
 
 
-![GitHub Logo](https://github.com/vedant-916/TEST/blob/main/CUSTOM_pix2pixHD/TARGET.png)
+![GitHub Logo](https://github.com/vedant-916/CUSTOM_pix2pixHD/blob/main/SRC.png)
 
 
 
