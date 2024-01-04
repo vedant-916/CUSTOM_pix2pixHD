@@ -23,7 +23,10 @@ cd pix2pixHD
 ```
 Use train.py to train on your own dataset
 
-
+<p align='center'>  
+  <img src='https://github.com/vedant-916/CUSTOM_pix2pixHD/blob/main/SRC.png' width='350'/>
+  <img src='https://github.com/vedant-916/CUSTOM_pix2pixHD/blob/main/TARGET.png' width='350'/>
+</p>
 
 
 
