@@ -32,7 +32,7 @@ Example Result
 </p>
 
 <p align="center">
-  SOURCE IMAGE   \t     TARGET IMAGE   \t       SYNTHESIZED IMAGE
+  SOURCE IMAGE  &nbsp;&nbsp;&nbsp;     TARGET IMAGE   &nbsp;&nbsp;&nbsp;       SYNTHESIZED IMAGE
 </p>
 
 
