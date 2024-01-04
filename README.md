@@ -27,14 +27,14 @@ Use train.py to train on your own dataset
 
 
 
-![GitHub Logo](https://github.com/vedant-916/TEST/blob/main/CUSTOM_pix2pixHD/SRC.png)
+![GitHub Logo](https://github.com/vedant-916/CUSTOM_pix2pixHD/blob/main/SRC.png)
 
 
 
 SOURCE IMAGE
 
 
-![GitHub Logo](https://github.com/vedant-916/CUSTOM_pix2pixHD/blob/main/SRC.png)
+![GitHub Logo](https://github.com/vedant-916/CUSTOM_pix2pixHD/blob/main/TARGET.png)
 
 
 
