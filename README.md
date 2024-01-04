@@ -18,7 +18,7 @@ pip install dominate
 ```
 - Clone this repo:
 ```bash
-git clone https://github.com/NVIDIA/pix2pixHD
+git clone https://github.com/vedant-916/CUSTOM_pix2pixHD.git
 cd pix2pixHD
 ```
 
