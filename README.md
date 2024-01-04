@@ -23,33 +23,16 @@ cd pix2pixHD
 ```
 Use train.py to train on your own dataset
 
+Example Result
+
 <p align='center'>  
   <img src='https://github.com/vedant-916/CUSTOM_pix2pixHD/blob/main/SRC.png' width='250'/>
   <img src='https://github.com/vedant-916/CUSTOM_pix2pixHD/blob/main/TARGET.png' width='250'/>
   <img src='https://github.com/vedant-916/TEST/blob/main/CUSTOM_pix2pixHD/SYNTHESIZED.png' width='250'/>
 </p>
 
+SOURCE IMAGE                        TARGET IMAGE                        SYNTHESIZED IMAGE
 
 
-![GitHub Logo](https://github.com/vedant-916/CUSTOM_pix2pixHD/blob/main/SRC.png)
-
-
-
-SOURCE IMAGE
-
-
-![GitHub Logo](https://github.com/vedant-916/CUSTOM_pix2pixHD/blob/main/TARGET.png)
-
-
-
-
-TARGET IMAGE
-
-
-
-![GitHub Logo](https://github.com/vedant-916/TEST/blob/main/CUSTOM_pix2pixHD/SYNTHESIZED.png)
-
-
-SYNTHESIZED IMAGE
 
 
