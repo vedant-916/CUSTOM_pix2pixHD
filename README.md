@@ -21,7 +21,7 @@ pip install dominate
 git clone https://github.com/vedant-916/CUSTOM_pix2pixHD.git
 cd pix2pixHD
 ```
-Refer to train.py to train on your own dataset
+Use train.py to train on your own dataset
 
 
 
