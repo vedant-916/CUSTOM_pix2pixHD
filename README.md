@@ -31,7 +31,9 @@ Example Result
   <img src='https://github.com/vedant-916/TEST/blob/main/CUSTOM_pix2pixHD/SYNTHESIZED.png' width='250'/>
 </p>
 
-SOURCE IMAGE                        TARGET IMAGE                        SYNTHESIZED IMAGE
+<p align="center">
+  SOURCE IMAGE        TARGET IMAGE          SYNTHESIZED IMAGE
+</p>
 
 
 
